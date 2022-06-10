@@ -1,6 +1,6 @@
 ## Tour E Zone Management System for Mechanic Koi?
 
-**This project "Tour E Zone Management System" has been developed on Laravel 8 and MySQL. The main purpose for developing this project can helps  clients to manage the booking request, package details, transports details, resort details, restaurant details based on destination, dashboard and daily log, get booking notification and etc. for customer view panding booking and checkout for booking. This application is very simple and easy to access.**, 
+**This project "Tour E Zone Management System" has been developed on Laravel 8 and MySQL. The main purpose for developing this project can helps  clients to manage the booking request, package details, transports details, resort details, restaurant details based on destination, dashboard and daily log, get booking notification and etc. for customer view panding booking and checkout for booking. This application is very simple and easy to access.**
 
 ### Modules and Description of Tour E Zone Management System Project:
 Functionality of the Tour E Zone Management System:
